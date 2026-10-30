@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this data or notebook, please cite the chapter below."
+title: "Smartphone use, study habits, and GPA: analysis notebook and survey data"
+type: dataset
+authors:
+  - given-names: Zurinahni
+    family-names: Zainol
+  - given-names: Bakary
+    family-names: Gibba
+    orcid: "https://orcid.org/0009-0001-3191-3975"
+  - given-names: Altagi Abdallah Bakheit
+    family-names: Abdelgadir
+  - given-names: Almonzer
+    family-names: Abdallah
+  - given-names: Md Serajun
+    family-names: Nabi
+  - given-names: Basheer
+    family-names: Riskhan
+repository-code: "https://github.com/BakaryGibba/Our-Research-Model-Predicting-GPA-with-Machine-Learning"
+preferred-citation:
+  type: generic
+  title: "Smartphone Use, Study Habits, and Academic Outcomes: Machine Learning Approaches to GPA Prediction"
+  authors:
+    - given-names: Zurinahni
+      family-names: Zainol
+    - given-names: Bakary
+      family-names: Gibba
+      orcid: "https://orcid.org/0009-0001-3191-3975"
+    - given-names: Altagi Abdallah Bakheit
+      family-names: Abdelgadir
+    - given-names: Almonzer
+      family-names: Abdallah
+    - given-names: Md Serajun
+      family-names: Nabi
+    - given-names: Basheer
+      family-names: Riskhan
+  collection-title: "Smart, Inclusive, and Sustainable Digital Societies"
+  publisher:
+    name: CRC Press
+  start: 162
+  end: 174
+  doi: "10.1201/9781042012725-15"
+  year: 2026
